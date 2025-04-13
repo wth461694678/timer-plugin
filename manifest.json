@@ -1,0 +1,10 @@
+{
+    "id": "timer-plugin",
+    "name": "文本块计时器",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "为文本块添加计时功能",
+    "author": "frankthwang",
+    "authorUrl": "",
+    "isDesktopOnly": false
+}
